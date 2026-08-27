@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.netlify.dragon_math.twa",
+        "sha256_cert_fingerprints": ["0F:BC:65:0B:40:CB:6B:EB:F6:34:FE:BB:46:D5:73:DB:01:FC:D8:BF:28:C0:07:7F:6E:52:94:68:0E:D8:A0:FE"]
+      }
+    }]
